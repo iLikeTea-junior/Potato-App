@@ -1,0 +1,26 @@
+.back.legendary {
+    position: relative;
+    overflow: hidden;
+}
+
+.back.legendary::before {
+    content: "";
+    position: absolute;
+    background: linear-gradient(red, orange, yellow, green, blue, indigo, violet);
+    width: 150%;
+    height: 150%;
+    animation: rotate 4s linear infinite;
+}
+
+.back.legendary::after {
+    content: "";
+    position: absolute;
+    background: rgb(255, 238, 142);
+    inset: 10px;
+    border-radius: 2rem;
+}
+
+@keyframes rotate {
+    from { transform: rotate(0deg) }
+    to { transform: rotate(360deg) }
+}
