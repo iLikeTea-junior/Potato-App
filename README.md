@@ -4,7 +4,8 @@ This is a frontend project (only frontend, no backend) that I made just for fun.
 It is an app that contains info on potatoes, if you are interested in potatoes whatsoever.
 
 THe live link: https://potatoapp.vercel.app/home
-*THis is app is visually better in a laptop display, phones sizes hasn't been done yet*
+
+*This is app is visually better in a laptop display, phones sizes hasn't been done yet*
 
 # 💻 Technologies
   - Javascript
