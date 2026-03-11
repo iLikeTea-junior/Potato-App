@@ -3,7 +3,7 @@
 This is a fun frontend-only-project--no backend included.
 It is an app that contains info on potatoes, if you are interested in potatoes whatsoever.
 
-The live link: potatoapp-a5187kinx-iliketea-juniors-projects.vercel.app
+The live link: potatoapp.vercel.app
 
 *The app looks best on a laptop screen, phones sizes hasn't been optimized yet*
 
